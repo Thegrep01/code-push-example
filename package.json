@@ -1,5 +1,5 @@
 {
-  "name": "code-push-examplel",
+  "name": "code-push-example",
   "version": "0.0.0",
   "license": "MIT",
   "scripts": {},
@@ -8,6 +8,7 @@
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "react-native": "0.71.1",
+    "react-native-code-push": "^7.0.5",
     "tslib": "^2.3.0"
   },
   "devDependencies": {

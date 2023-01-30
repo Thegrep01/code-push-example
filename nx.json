@@ -1,6 +1,6 @@
 {
   "$schema": "./node_modules/nx/schemas/nx-schema.json",
-  "npmScope": "code-push-examplel",
+  "npmScope": "code-push-example",
   "tasksRunnerOptions": {
     "default": {
       "runner": "nx/tasks-runners/default",
