@@ -91,8 +91,8 @@ export const App = () => {
 const styles = StyleSheet.create({
   scrollView: {
     height: '100%',
+    // backgroundColor: '#6b5b95',
   },
-
   monospace: {
     color: '#ffffff',
     fontFamily: 'Courier New',
